@@ -1,0 +1,12 @@
+# These owners will be the default owners for everything in the repo
+* @goncalovelosa
+
+# Scripts
+/scripts/ @goncalovelosa
+
+# Templates
+/templates/ @goncalovelosa
+
+# Documentation
+/README.md @goncalovelosa
+/references/ @goncalovelosa
